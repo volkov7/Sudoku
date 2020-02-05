@@ -12,3 +12,4 @@ Run:
 ./sudouku [put youre sudoke like in example.txt]
 ```
 If input will be wrong the programm print Error.
+![Example](https://github.com/volkov7/Sudoku/raw/master/example.png)
